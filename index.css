@@ -1,0 +1,20 @@
+button {
+    background-color: brown;
+    padding: 0.5rem;
+    font-size: 12px;
+    color: aliceblue;
+}
+
+div {
+    box-sizing: border-box;
+    border: 2px solid black;
+    max-width: 300px;
+    background-color: aliceblue;
+}
+
+body {
+    margin: auto;
+    padding: 5rem;
+    text-align: center ;
+    background-color: aqua;
+}
